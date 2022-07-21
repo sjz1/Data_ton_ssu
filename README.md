@@ -4,7 +4,8 @@
 
 
 
-## Step_1
+## Step1_Using big_data
+
 #### 연출입건수 대비 연대출권수 구하기 
 ###### target 대상에 대한 문제점 해결하기 (개인정보공개 불가 문제)
 ###### outer join을 적용하고 중복을 제거하는 과정에서 랜덤성이 적용이 되어서 해결이 필요
@@ -15,7 +16,7 @@
 
 
 
-## Step_2
+## Step2_Solution_of_Dilemma
 #### 연출입건수 대비 연대출권수 구하기 
 #### 위에서 발생한 딜레마 해결 -> 학생에 집중하여서 생김(학과,학번으로 구분)
 ![image](https://user-images.githubusercontent.com/68888169/180141824-87331ddd-15c5-4c84-8174-55e71efc658a.png)
@@ -24,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/68888169/180141900-0f21df67-2dfc-4cec-80cc-8928d239f294.png)
 
 
-## Step_3
+## Step3_EDA_OF_BORROW_DATA
 #### 추천서비스 구현을 위한 단행본대출 데이터 분석(EDA)
 ![image](https://user-images.githubusercontent.com/68888169/180142731-c3296872-392d-4251-bf89-5fe5236d4f48.png)
 ![image](https://user-images.githubusercontent.com/68888169/180142606-e416339e-4907-4d77-9fe8-7e22aa3a22ff.png)
@@ -34,14 +35,14 @@
 ![KakaoTalk_20220707_013811531](https://user-images.githubusercontent.com/68888169/180143175-a5444dd5-d906-40f3-bab5-af903fadbd11.gif)
 
 
-## Step_4
+## Step4_build_environment & AdmissionYear_RecommendSystem
 #### 입학년도에 따른 추천서비스 구현
 input -> 본인의 입학한 년도
 
 output -> 해당 년도에 입학한 학생들에 대한 베스트셀러 혹은 DDC
 ![image](https://user-images.githubusercontent.com/68888169/180143479-8b90ea29-0ce7-46e9-8c8b-c151d2ca25a7.png)
 
-## Step_5
+## Step5_Department_per_RecommendSystem
 #### 학과에 따른 추천서비스 구현
 input -> 본인의 학과
 
