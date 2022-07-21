@@ -24,6 +24,13 @@
 ![image](https://user-images.githubusercontent.com/68888169/180141900-0f21df67-2dfc-4cec-80cc-8928d239f294.png)
 
 
+## Step_3
+#### 추천서비스 구현을 위한 단행본대출 데이터 분석(EDA)
+![image](https://user-images.githubusercontent.com/68888169/180142572-b67cb998-34ab-4760-aa00-5322bc3382de.png)
+![image](https://user-images.githubusercontent.com/68888169/180142606-e416339e-4907-4d77-9fe8-7e22aa3a22ff.png)
+![image](https://user-images.githubusercontent.com/68888169/180142626-c42f3d49-b769-4642-ace7-a7199f9d4300.png)
+
+
 
 ## 저작권 이슈 및 배포 문제
 모든 데이터의 저작권은 숭실대학교 중앙도서관에 있음을 명시합니다
