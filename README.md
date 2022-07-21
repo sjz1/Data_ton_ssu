@@ -6,7 +6,7 @@
 
 ## Step_1
 #### 연출입건수 대비 연대출권수 구하기 
-####### target 대상에 대한 문제점 해결하기 (개인정보공개 불가 문제)
+###### target 대상에 대한 문제점 해결하기 (개인정보공개 불가 문제)
 
 ![image](https://user-images.githubusercontent.com/68888169/180140894-20a9c951-70c0-47a5-9773-ec485e683c6c.png)
 ![image](https://user-images.githubusercontent.com/68888169/180140988-28bf4a90-3ee9-42fd-b7c2-b81b7d244a0f.png)
