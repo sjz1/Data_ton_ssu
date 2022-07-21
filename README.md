@@ -30,6 +30,25 @@
 ![image](https://user-images.githubusercontent.com/68888169/180142606-e416339e-4907-4d77-9fe8-7e22aa3a22ff.png)
 ![image](https://user-images.githubusercontent.com/68888169/180142626-c42f3d49-b769-4642-ace7-a7199f9d4300.png)
 
+### 학번 별 Top 10 베스트셀러
+![KakaoTalk_20220707_013811531](https://user-images.githubusercontent.com/68888169/180143175-a5444dd5-d906-40f3-bab5-af903fadbd11.gif)
+
+
+## Step_4
+#### 입학년도에 따른 추천서비스 구현
+input -> 본인의 입학한 년도
+
+output -> 해당 년도에 입학한 학생들에 대한 베스트셀러 혹은 DDC
+![image](https://user-images.githubusercontent.com/68888169/180143479-8b90ea29-0ce7-46e9-8c8b-c151d2ca25a7.png)
+
+## Step_5
+#### 학과에 따른 추천서비스 구현
+input -> 본인의 학과
+
+output -> 해당 학과에 대한 베스트셀러 혹은 DDC
+![image](https://user-images.githubusercontent.com/68888169/180143680-de349514-afa9-4912-909a-7a2990e0d801.png)
+
+
 
 
 ## 저작권 이슈 및 배포 문제
